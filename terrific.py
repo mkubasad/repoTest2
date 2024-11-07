@@ -1,3 +1,3 @@
 # terrific.
 # I am a terrific file.
-# I am not terrible!
+# Not to be confused with a terrible file :)
